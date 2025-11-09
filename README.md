@@ -5,17 +5,17 @@ Production scraper for extracting URNs from LinkedIn companies and people profil
 ## What Works
 
 **For Companies:**
-- ✅ Company URN (`urn:li:fsd_company:12345`)
-- ✅ Company ID (numeric)
-- ✅ Company Name
-- ✅ Follower Count
+-  Company URN (`urn:li:fsd_company:12345`)
+-  Company ID (numeric)
+-  Company Name
+-  Follower Count
 
 **For People:**
-- ✅ Person URN (`urn:li:fsd_profile:xxxxx` or `urn:li:member:12345`)
-- ✅ Person ID
-- ✅ Full Name
-- ✅ Headline (job title)
-- ✅ Connection Count
+-  Person URN (`urn:li:fsd_profile:xxxxx` or `urn:li:member:12345`)
+-  Person ID
+-  Full Name
+-  Headline (job title)
+-  Connection Count
 
 ---
 
