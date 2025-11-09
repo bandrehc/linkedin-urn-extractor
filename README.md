@@ -1,4 +1,4 @@
-# LinkedIn URN Scraper v2
+# LinkedIn URN Scraper
 
 Production scraper for extracting URNs from LinkedIn companies and people profiles.
 
